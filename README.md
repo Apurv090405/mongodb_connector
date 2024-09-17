@@ -45,3 +45,5 @@ In summary, setup.cfg is used by setuptools to configure the packaging and insta
 1. pylint
 2. flake8(it is best because it containt 3 library pylint pycodestyle mccabe)
 3. pycodestyle
+
+
